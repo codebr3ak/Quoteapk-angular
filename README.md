@@ -44,7 +44,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Technologies Used
 Angularjs
 ## Support and contact details
-If you come across any problems you can reach me at: rwmwangi96@gmail.com
+If you come across any problems you can reach me at: barakaralph@gmail.com
 ### License
 *This project is licensed under the terms of the MIT license.*
 Copyright (c) 2020 **Ralph Baraka**
