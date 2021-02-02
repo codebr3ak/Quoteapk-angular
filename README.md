@@ -9,7 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * Add Quotes
 * See most popular Quotes
 ## Author
-- [Ruth Mwangi](https://github.com/Ruth-Mwangi)
+- [Ralph Baraka](https://github.com/Ralph Baraka)
 ## Setup/Installation Requirements
 * Fork this repo
 * Clone this repo 
@@ -47,7 +47,7 @@ Angularjs
 If you come across any problems you can reach me at: rwmwangi96@gmail.com
 ### License
 *This project is licensed under the terms of the MIT license.*
-Copyright (c) 2020 **Ruth Mwangi**
+Copyright (c) 2020 **Ralph Baraka**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
