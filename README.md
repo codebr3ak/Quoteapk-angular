@@ -47,7 +47,7 @@ Angularjs
 If you come across any problems you can reach me at: barakaralph@gmail.com
 ### License
 *This project is licensed under the terms of the MIT license.*
-Copyright (c) 2020 **Ralph Baraka**
+Copyright (c) 2021 **Ralph Baraka**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
